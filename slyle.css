@@ -17,3 +17,7 @@ canvas{
     box-shadow: 5px, 5px, 5px, white;
     border: 20px;
 }
+body
+{
+    background: cover;
+}
